@@ -1,20 +1,5 @@
-/*
- * Appendix E program.
- * CSC 360, Summer 2021
- *
- * This shows how input from the user can be broken down into individual
- * words / tokens.
- *
- * To understand this code, you must be *completely* convinced that a
- * "char *" variables does *not* store a string. Rather, it stores 
- * an address to memory location storing a character. If the value stored
- * at that memory location changes, but the "char *" value doesn't, then
- * it is the new contents at the memory location which appear, not the old.
- *
- * Important: strtok modifies the char array which is being tokenized.
- * If you need to keep the original string, then make a copy of it before
- * running strtok.
- */
+
+
 
 #include <stdio.h>
 #include <stdlib.h>
