@@ -1,7 +1,5 @@
 /*
- * Appendix D program.
- * CSC 360, Summer 2021
- *
+
  * In this example, fork & execve & pipe are used to connect the output
  * of "ls -1" to the input of "wc -l". ("wc" is the "word count" command
  * in Unix, and "-l" is the option causing the command to output only the
