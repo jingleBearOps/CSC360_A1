@@ -1,7 +1,5 @@
 /*
- * Appendix E program.
- * CSC 360, Summer 2021
- *
+
  * This shows how input from the user can be broken down into individual
  * words / tokens.
  *
