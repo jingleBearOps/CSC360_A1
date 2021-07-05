@@ -1,7 +1,5 @@
 /*
- * Appendix B program.
- * CSC 360, Summer 2021
- *
+
  * In this example, fork & execve are used to create a child process
  * that runs the "ls" command with one argument given to the "ls" command
  * (i.e., "-1" which lists all of the files in a single column).
