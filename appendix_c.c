@@ -1,7 +1,5 @@
 /*
- * Appendix C program.
- * CSC 360, Summer 2021
- *
+
  * Like the code in Appendix B, this creates a child running -- in effect -- the * command "ls -1". This time, however, the output from the command is not
  * output to the console but rather is redirected to a file named
  * "output.txt". That is, the result of this program would be the same as if
