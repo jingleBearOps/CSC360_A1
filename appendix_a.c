@@ -1,7 +1,5 @@
 /*
- * Appendix A program.
- * CSC 360, Summer 2021
- *
+
  * This shows how a simple loop obtaining input from the user can
  * be written. Notice the use of "fflush".
  *
