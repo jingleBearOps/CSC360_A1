@@ -1,7 +1,5 @@
 /*
- * Appendix F program.
- * CSC 360, Summer 2021
- *
+
  * This shows to use the time functions within a C program.
  */
 
